@@ -1,5 +1,5 @@
 <?php
-$fields_string = '';
+$fields_string = ''; 
 $url = 'http://server/api.php';
 $fields = array(
 	'type' => 'send-mail',
